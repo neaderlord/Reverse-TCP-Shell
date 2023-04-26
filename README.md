@@ -11,4 +11,4 @@ $ python3 setup.py py2app -A
 
 Send the file to someone in your local area when the target execute the file you can connect the targets PC.
 
-(Remember to open a listener by nc -lvnp 1234)
+(Remember to open a listener by nc -lvnp "your_port")
