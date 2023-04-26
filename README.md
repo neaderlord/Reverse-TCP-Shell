@@ -1,9 +1,9 @@
 # Reverse-TCP-Shell
 Local Area Reverse TCP Shell Using Python For Mac
 
-$ git clone https://github.com/neaderlord/Reverse-TCP-Shell
+$ git clone https://github.com/neaderlord/Reverse-TCP-Shell-For-Mac
 
-$ cd Reverse-TCP-Shell
+$ cd Reverse-TCP-Shell-For-Mac
 
 $ pip3 install -r requirements.txt
 
